@@ -1,23 +1,23 @@
 #  俱乐部CLASH：赛事说明
 
 ***——Galaxy俱乐部&狂野飙车9 NS服 交流Q群：181022488***
- [![group.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgogroup.png)](https://qm.qq.com/cgi-bin/qm/qr?k=kndxmcSGo3EM99G940l0k-ua0rxJFxYu&jump_from=webapi&authKey=IO5nTMo3pgjZdVbGIb29wr5UgNGqSLUGs1R8lhGBZIdx32/rGcJb5f/+qdwQKKy8)​
+ [![group.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020716128.png)](https://qm.qq.com/cgi-bin/qm/qr?k=kndxmcSGo3EM99G940l0k-ua0rxJFxYu&jump_from=webapi&authKey=IO5nTMo3pgjZdVbGIb29wr5UgNGqSLUGs1R8lhGBZIdx32/rGcJb5f/+qdwQKKy8)​
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
 *前言*：Clash赛事需要队员车库、技术都强，最重要的是需要沟通协调，目前A队参加，Q、W队若需要参加队长可报名，但管理精力有限，蚕食需要队员们自己沟通协调（建议推选出一个Clash队长来指挥），决定后队长可[点击这里]()打开Clash赛事协调表格后，在菜单中生成副本分享给参赛队友，让他们录入车库后，队长根据信息指挥即可。
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
 【以下教程能帮助大家快速了解Clash —— 翻译自[官方Clash赛事说明文档](https://asphalt9.info/the-clash-tutorial/) By：BigMonster】
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
 **Clash是《Asphalt 9: Legends》的一个船新模式，让两个俱乐部在内卷中争夺荣誉和奖励**
 
-![bb906f50fd0aabd2e8afede694e1b3e9.jpeg](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgobb906f50fd0aabd2e8afede694e1b3e9.jpeg)
+![bb906f50fd0aabd2e8afede694e1b3e9.jpeg](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020842388.jpeg)
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
  
 
@@ -27,9 +27,9 @@
 - Clash发生在一张名为 "传奇之城 "的特殊地图上，它被分为红方和蓝方。每一面都包含多个街区和街道。
 - **我们的目标是尽可能多地占领对方俱乐部的街道，同时保护自己的街道不被占领。**
 
-![2f665da61c6f173db06a5bf64d8d3623.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo2f665da61c6f173db06a5bf64d8d3623.png)
+![2f665da61c6f173db06a5bf64d8d3623.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020843682.png)
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
  
 
@@ -37,26 +37,24 @@
 
 每个Clash赛事都分为以下不同的阶段：
 
-![a53c548122a97e7adeec0c9778eab0a0.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoa53c548122a97e7adeec0c9778eab0a0.png)
+![a53c548122a97e7adeec0c9778eab0a0.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020839555.png)
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
 ## **准备**
 
 - 在此阶段，安奈不住的队员会催促每个**俱乐部队长**或**管理**为他们的俱乐部报名参加clash赛事。
-- ![8da3cc2c212828d9d464ac2025cc9163.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo8da3cc2c212828d9d464ac2025cc9163.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)**Tips**：请确保你的俱乐部已经准备好了。GL为防止白嫖，报名后新加入俱乐部的将不能参加这次clash。
+- ![8da3cc2c212828d9d464ac2025cc9163.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020836803.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)**Tips**：请确保你的俱乐部已经准备好了。GL为防止白嫖，报名后新加入俱乐部的将不能参加这次clash。
 
  
 
-![6766868decbbe2a2cb9d1d6380f13c78.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo6766868decbbe2a2cb9d1d6380f13c78.png)![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
-
- 
+![6766868decbbe2a2cb9d1d6380f13c78.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020835724.png)---
 
 ## **防守阶段**
 
  
 
-![32774e0e8f8bb765b3069544b607e392.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo32774e0e8f8bb765b3069544b607e392.png)
+![32774e0e8f8bb765b3069544b607e392.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020835549.png)
 
 在这一阶段，管理员将为俱乐部成员分配需要占据的己方城市街道以及使用的车辆，队员们要在这条街道上创造最佳用时记录，**以保护他们的街道**。
 
@@ -70,7 +68,7 @@
 
 **防守阶段主要玩法**
 
-![7c28bdd75a65dfa29e789d73f2f515d4.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo7c28bdd75a65dfa29e789d73f2f515d4.png)
+![7c28bdd75a65dfa29e789d73f2f515d4.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020837285.png)
 
 - **占领街道**
   - 占领管理员分配给你的街道并保护它们，用你的好成绩让对手在进攻阶段难受（感到绝望最好）。
@@ -97,7 +95,7 @@
 
  
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
  
 
@@ -129,7 +127,7 @@
 
  
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
  
 
@@ -157,13 +155,13 @@
 
  
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
  
 
 ## **奖励**
 
-![b9df5c30b50c7bd28bafe0b76d20ea63.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgob9df5c30b50c7bd28bafe0b76d20ea63.png)
+![b9df5c30b50c7bd28bafe0b76d20ea63.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020827835.png)
 
  
 
@@ -202,9 +200,9 @@
 **CLASH货币一共分为两种**
 
 - **黄币**可以通过氪金、结算获取
-  - ![4eeb3c7bd00965a28115f9bd7a82ad3e.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo4eeb3c7bd00965a28115f9bd7a82ad3e.png)
+  - ![4eeb3c7bd00965a28115f9bd7a82ad3e.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020826201.png)
 - **紫币**只能通过结算获取
-  - ![1f72bc6e1975b0d8a0ad75eac0f13052.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo1f72bc6e1975b0d8a0ad75eac0f13052.png)
+  - ![1f72bc6e1975b0d8a0ad75eac0f13052.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020824409.png)
 
 ## **Tips：**
 
@@ -223,6 +221,6 @@ By：BigMonster
 
  
 
- ![aa6d1690b24d321af558f5dc031895fe.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaa6d1690b24d321af558f5dc031895fe.png)
+ ![aa6d1690b24d321af558f5dc031895fe.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020820143.png)
 
 ***Galaxy俱乐部——******狂野飙车9 NS服 交流Q群***
