@@ -5,7 +5,7 @@
 ---
 
 ## 🔧 核心工具区
-```markdown
+
 ### 🛠️ 游戏助手
 [▶️ **教程攻略**](/tutorial) » 掌握集结技巧  
 [📟 **狂飙小助手**](https://a9.walterbright.cc/#/) → 车辆、地图信息查询 
@@ -23,7 +23,6 @@
 ### 🌐 社交引擎
 [💬 **官方社区**](https://discord.com/channels/464007189741305856/585059349018312705) ➤ 加入百万飙车党  
 [📢 **客服中心**](https://gameloft.helpshift.com/hc/en/15-asphalt-legends-unite/) → 24小时极速响应
-```
 
 
 ---
@@ -31,25 +30,3 @@
 ### 🌃 "当转速表突破红区，才能看见真正的赛道" —— Galaxy
 
 ---
-
-```css
-/* 霓虹光效主题 */
-body {
-  background: #0a0a1a;
-  color: #e0e0ff;
-}
-a {
-  color: #00FFFF;
-  border-bottom: 1px dashed #FF0742;
-}
-a:hover {
-  text-shadow: 0 0 15px #FF4500;
-}
-code {
-  background: rgba(0,255,255,0.1);
-  border: 1px solid #00FFFF;
-}
-table {
-  border: 2px solid #FF0742;
-  background: rgba(0,0,0,0.7);
-}
