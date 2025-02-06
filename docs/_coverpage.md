@@ -1,12 +1,10 @@
-![logo](_media/logo.png)
+![logo](_media/galaxy.png)
 
-# 小傅哥
+# 狂野飙车集结知识库
 
-## 教程序员快速搭建博客
+## Galaxy俱乐部
 
-- 本仓库以基于 docsify 构建的所见即所得博客，程序员👨🏻‍💻伙伴可以通过克隆仓库，配置基础的信息就可以拥有一个这样的博客了！
+- 狂野飙车集结萌新教程以及各种资讯
     
-[![stars](https://badgen.net/github/stars/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) [![forks](https://badgen.net/github/forks/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) 
-
-[GitHub](<https://github.com/fuzhengwei/fuzhengwei.github.io>)
+  ***——Galaxy俱乐部&狂野飙车9 NS服 交流Q群：181022488*** [![group.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgogroup.png?token=AFJJX3JDGFOUPMWA3NK5SPLHUSF6E)](https://qm.qq.com/cgi-bin/qm/qr?k=kndxmcSGo3EM99G940l0k-ua0rxJFxYu&jump_from=webapi&authKey=IO5nTMo3pgjZdVbGIb29wr5UgNGqSLUGs1R8lhGBZIdx32/rGcJb5f/+qdwQKKy8)
 [开始阅读](README.md)
