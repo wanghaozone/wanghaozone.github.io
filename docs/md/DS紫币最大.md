@@ -1,11 +1,11 @@
 # DS活动紫币最大化教程 
 
 ***——Galaxy俱乐部&狂野飙车9 NS服 交流Q群：181022488***
- [![group.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgogroup.png)](https://qm.qq.com/cgi-bin/qm/qr?k=kndxmcSGo3EM99G940l0k-ua0rxJFxYu&jump_from=webapi&authKey=IO5nTMo3pgjZdVbGIb29wr5UgNGqSLUGs1R8lhGBZIdx32/rGcJb5f/+qdwQKKy8)​
+ [![group.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020515868.png)](https://qm.qq.com/cgi-bin/qm/qr?k=kndxmcSGo3EM99G940l0k-ua0rxJFxYu&jump_from=webapi&authKey=IO5nTMo3pgjZdVbGIb29wr5UgNGqSLUGs1R8lhGBZIdx32/rGcJb5f/+qdwQKKy8)​
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
- 
+
 
 ## ***DS紫币优化基础说明：***
 
@@ -13,11 +13,11 @@
 
   DS活动每小关跑图可获得SP和紫币，且SP有上限，一旦获取的SP达到上限则本小关完结。
 
-  - ![bc91bafb2a613f8b498405f345f02b56.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgobc91bafb2a613f8b498405f345f02b56.png)
+  - ![bc91bafb2a613f8b498405f345f02b56.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020522920.png)
 
  
 
-- **风险值说明：**![5214ed1c0234be8eb25270a19fb75ca7.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo5214ed1c0234be8eb25270a19fb75ca7.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)风险值相当于DS活动专属票券，类似每日里票券，不过计数方式相反，根据你选择的任务风险度不同，每跑一把活动增加1至3点，一旦风险值拉满，则不可继续游玩，需要等待风险值降低。
+- **风险值说明：**![5214ed1c0234be8eb25270a19fb75ca7.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020527019.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)风险值相当于DS活动专属票券，类似每日里票券，不过计数方式相反，根据你选择的任务风险度不同，每跑一把活动增加1至3点，一旦风险值拉满，则不可继续游玩，需要等待风险值降低。
 
  
 
@@ -27,7 +27,7 @@
 
    
 
-  - ![988b5b9230ff6174080e16feb0f8dac2.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo988b5b9230ff6174080e16feb0f8dac2.png)
+  - ![988b5b9230ff6174080e16feb0f8dac2.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020534522.png)
 
   - 危险等级越高的任务，车辆星级要求越高
 
@@ -39,14 +39,14 @@
 
   - 同一危险等级的三类关卡，紫币的比值为5:4:3的关系，而SP的关系为14:9:6
 
-    - ![7a28d24050c367f3f7b84fb06379aae7.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo7a28d24050c367f3f7b84fb06379aae7.png)
+    - ![7a28d24050c367f3f7b84fb06379aae7.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020536191.png)
 
   - ## **DS任务地图刷新机制：**
 
     - 进入比赛后，直接退出，系统会刷新任务地图，SP和紫币获取量会随着地图的刷新而变化。
     - 任意危险等级地图退出后，另外两个危险等级的地图都会一同被刷新，因此需**要刷图时请使用危险等级1的图来刷新**，这样浪费最少的风险值。
     - 比赛完成后，在下图界面时，SP和紫币已经到账了，此时直接回到NS桌面关闭游戏再进入，任务地图不会被刷新，SP和紫币获取也和上一把一模一样。
-      - ![be1c1ee023892329675d1ff978a17f66.jpeg](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgobe1c1ee023892329675d1ff978a17f66.jpeg)
+      - ![be1c1ee023892329675d1ff978a17f66.jpeg](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020538542.jpeg)
 
  
 
@@ -54,7 +54,7 @@
   - **跑图要选择自己能跑的最大危险等级，例如能跑危险等级3绝不跑危险等级1**
   - **利用任务地图刷新机制，按下文方案，来选择刷固定的地图组合，以在SP爆表前获取最多紫币。**
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
 ![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
@@ -70,7 +70,7 @@
 
 *Tips：一旦刷出最低紫币地图，可按上文（往上翻查看DS任务地图刷新机制）提到的游戏结算界面关闭游戏重进的方法，一直刷这个图*
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
 ![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
@@ -91,7 +91,7 @@
 
 *Tips：一旦刷出最低紫币地图，可按上文（往上翻查看DS任务地图刷新机制）提到的游戏结算界面关闭游戏重进的方法，一直刷这个图*
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
 ![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
@@ -99,13 +99,13 @@
 
 当本关**SP获取完毕后**会解锁奖励紫币的**特别任务**关卡。
 
-- ![07a0d7fa405d7997330a679bc402ff21.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo07a0d7fa405d7997330a679bc402ff21.png)
+- ![07a0d7fa405d7997330a679bc402ff21.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020544860.png)
 - 奖励**紫币的总量是固定的**（如上图总量为10000紫币）
 - 地图也分低、中、高、三档
 - **简单跑法**：随意跑拿够所有紫币即可。
 - **进阶跑法**：先随意跑，若遇到奖励高的地图，跑完后使用重启游戏的方法，一直刷这个高奖励图，减少风险值消耗的同时能更快拿完紫币（只是省时省风险值，**获取的紫币数量与随便跑无差别**）
 
-![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+---
 
 ![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
@@ -121,6 +121,6 @@
 
  
 
- ![aa6d1690b24d321af558f5dc031895fe.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaa6d1690b24d321af558f5dc031895fe.png)
+ ![aa6d1690b24d321af558f5dc031895fe.png](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207020546920.png)
 
 ***Galaxy俱乐部——******狂野飙车9 NS服 交流Q群***
