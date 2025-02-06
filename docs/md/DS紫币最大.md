@@ -1,0 +1,126 @@
+# DS活动紫币最大化教程 
+
+***——Galaxy俱乐部&狂野飙车9 NS服 交流Q群：181022488***
+ [![group.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgogroup.png)](https://qm.qq.com/cgi-bin/qm/qr?k=kndxmcSGo3EM99G940l0k-ua0rxJFxYu&jump_from=webapi&authKey=IO5nTMo3pgjZdVbGIb29wr5UgNGqSLUGs1R8lhGBZIdx32/rGcJb5f/+qdwQKKy8)​
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+ 
+
+## ***DS紫币优化基础说明：***
+
+- **SP和紫币：**
+
+  DS活动每小关跑图可获得SP和紫币，且SP有上限，一旦获取的SP达到上限则本小关完结。
+
+  - ![bc91bafb2a613f8b498405f345f02b56.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgobc91bafb2a613f8b498405f345f02b56.png)
+
+ 
+
+- **风险值说明：**![5214ed1c0234be8eb25270a19fb75ca7.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo5214ed1c0234be8eb25270a19fb75ca7.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)风险值相当于DS活动专属票券，类似每日里票券，不过计数方式相反，根据你选择的任务风险度不同，每跑一把活动增加1至3点，一旦风险值拉满，则不可继续游玩，需要等待风险值降低。
+
+ 
+
+- 危险等级：每小关地图有1、2、3种危险等级任务可选择，不同危险等级有以下不同点
+
+   
+
+   
+
+  - ![988b5b9230ff6174080e16feb0f8dac2.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo988b5b9230ff6174080e16feb0f8dac2.png)
+
+  - 危险等级越高的任务，车辆星级要求越高
+
+  - 危险等级越高的任务，游玩一局增加的风险值越多
+
+  - 危险等级越高的任务，获取SP和紫币越多
+
+  - 每个危险等级能获取得SP和紫币量又分为低、中、高三个档次的地图，由系统随机刷新。
+
+  - 同一危险等级的三类关卡，紫币的比值为5:4:3的关系，而SP的关系为14:9:6
+
+    - ![7a28d24050c367f3f7b84fb06379aae7.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo7a28d24050c367f3f7b84fb06379aae7.png)
+
+  - ## **DS任务地图刷新机制：**
+
+    - 进入比赛后，直接退出，系统会刷新任务地图，SP和紫币获取量会随着地图的刷新而变化。
+    - 任意危险等级地图退出后，另外两个危险等级的地图都会一同被刷新，因此需**要刷图时请使用危险等级1的图来刷新**，这样浪费最少的风险值。
+    - 比赛完成后，在下图界面时，SP和紫币已经到账了，此时直接回到NS桌面关闭游戏再进入，任务地图不会被刷新，SP和紫币获取也和上一把一模一样。
+      - ![be1c1ee023892329675d1ff978a17f66.jpeg](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgobe1c1ee023892329675d1ff978a17f66.jpeg)
+
+ 
+
+- **了解以上信息后如何进行紫币优化？**
+  - **跑图要选择自己能跑的最大危险等级，例如能跑危险等级3绝不跑危险等级1**
+  - **利用任务地图刷新机制，按下文方案，来选择刷固定的地图组合，以在SP爆表前获取最多紫币。**
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+
+## ***懒人方案：***
+
+- 选择能跑的最大危险等级
+- 通过“进游戏→退游戏”的机制刷出紫币获取量最小的地图，一直跑N局
+- SP爆表前的最后一把，通过“进游戏→退游戏”的机制刷出紫币获取量最大的地图，跑一局
+- 一句话总结：全跑最低紫币，最后一局跑最高紫币。
+- 优缺点：
+  - 优点：简单省事，紫币获取量比瞎跑高。
+  - 缺点：紫币收益不是最大化，但也较下文中的极限方案少不了多少
+
+*Tips：一旦刷出最低紫币地图，可按上文（往上翻查看DS任务地图刷新机制）提到的游戏结算界面关闭游戏重进的方法，一直刷这个图*
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+
+## ***极限方案（紫币最大化）：***
+
+- 选择能跑的最大危险等级
+- 通过“进游戏→退游戏”的机制刷出满足下方方案的地图
+- **计算策略：每关总SP/所选危险等级最小SP（数据可在本文末表格中查找）**
+  - **方案一：余数<0.5 —— 全跑最小紫币图，最后一局跑最大紫币图**
+    - 举例：当前关卡SP总量为5000，所选危险等级的最小SP图为1500，根据公式算出5000/1500=3**.3**，余数0.3＜0.5，则选用此方案
+  - **方案二：余数>＝0.5 —— 跑1局中等紫币图，其余全跑最小紫币图，最后一局跑最大紫币图**
+    - 举例：当前关卡SP总量为7000，所选危险等级的最小SP图为1500，根据公式算出7000/1500=4**.6**，余数0.6＞0.5，则选用此方案
+  - **方案三：整除 ——同方案二**
+
+- 优缺点：
+  - 优点：紫币收益最大化。
+  - 缺点：较复杂，较耗时，会浪费很多风险值刷图。
+
+*Tips：一旦刷出最低紫币地图，可按上文（往上翻查看DS任务地图刷新机制）提到的游戏结算界面关闭游戏重进的方法，一直刷这个图*
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+
+## ***关于特别任务：***
+
+当本关**SP获取完毕后**会解锁奖励紫币的**特别任务**关卡。
+
+- ![07a0d7fa405d7997330a679bc402ff21.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo07a0d7fa405d7997330a679bc402ff21.png)
+- 奖励**紫币的总量是固定的**（如上图总量为10000紫币）
+- 地图也分低、中、高、三档
+- **简单跑法**：随意跑拿够所有紫币即可。
+- **进阶跑法**：先随意跑，若遇到奖励高的地图，跑完后使用重启游戏的方法，一直刷这个高奖励图，减少风险值消耗的同时能更快拿完紫币（只是省时省风险值，**获取的紫币数量与随便跑无差别**）
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+
+***DS6全关卡数据参考：\***
+
+注意：**此表格主要用来参考每关SP值和紫币值帮你快速确定刷哪种图用**，表格中最后面紫币最大化的跑法方案只适配了危险等级3，实际操作中你可能并不能全都满足跑危险等级3的要求，所以还是得根据自己能跑的等级通过上文的公式来决定跑法！
+
+ 
+
+**[点此查看](https://m.q.qq.com/a/s/9774fd9bd0d78bf86be389a5e5550ed4?via=2016_1)👈车手联合会6 —— 全关卡数据表格（汉化版）**
+
+**（[PC用户网页版入口](https://docs.qq.com/sheet/DZXhaSUxPcE9LT0xy?tab=y7slrn)）**
+
+ 
+
+ ![aa6d1690b24d321af558f5dc031895fe.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaa6d1690b24d321af558f5dc031895fe.png)
+
+***Galaxy俱乐部——******狂野飙车9 NS服 交流Q群***
