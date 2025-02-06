@@ -1,6 +1,6 @@
 # 🏎️⚡ 狂野飙车·集结·Galaxy ⚡🏁
 
-![image-20250206202313329](https://raw.githubusercontent.com/wanghaozone/image/master/image/PicgoPicgoimage-20250206202313329.png)
+![image-20250207022555035](https://willhi-1311924196.cos.ap-chengdu.myqcloud.com/picgo/20250207022555377.png)
 
 ---
 
