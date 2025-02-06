@@ -1,0 +1,228 @@
+#  俱乐部CLASH：赛事说明
+
+***——Galaxy俱乐部&狂野飙车9 NS服 交流Q群：181022488***
+ [![group.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgogroup.png)](https://qm.qq.com/cgi-bin/qm/qr?k=kndxmcSGo3EM99G940l0k-ua0rxJFxYu&jump_from=webapi&authKey=IO5nTMo3pgjZdVbGIb29wr5UgNGqSLUGs1R8lhGBZIdx32/rGcJb5f/+qdwQKKy8)​
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+*前言*：Clash赛事需要队员车库、技术都强，最重要的是需要沟通协调，目前A队参加，Q、W队若需要参加队长可报名，但管理精力有限，蚕食需要队员们自己沟通协调（建议推选出一个Clash队长来指挥），决定后队长可[点击这里]()打开Clash赛事协调表格后，在菜单中生成副本分享给参赛队友，让他们录入车库后，队长根据信息指挥即可。
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+【以下教程能帮助大家快速了解Clash —— 翻译自[官方Clash赛事说明文档](https://asphalt9.info/the-clash-tutorial/) By：BigMonster】
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+**Clash是《Asphalt 9: Legends》的一个船新模式，让两个俱乐部在内卷中争夺荣誉和奖励**
+
+![bb906f50fd0aabd2e8afede694e1b3e9.jpeg](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgobb906f50fd0aabd2e8afede694e1b3e9.jpeg)
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+ 
+
+## **啥是Clash？**
+
+- Clash是《Asphalt 9: Legends》的一个船新游戏模式，使两个俱乐部在内卷中争夺荣誉和奖励。
+- Clash发生在一张名为 "传奇之城 "的特殊地图上，它被分为红方和蓝方。每一面都包含多个街区和街道。
+- **我们的目标是尽可能多地占领对方俱乐部的街道，同时保护自己的街道不被占领。**
+
+![2f665da61c6f173db06a5bf64d8d3623.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo2f665da61c6f173db06a5bf64d8d3623.png)
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+ 
+
+## **阶段**
+
+每个Clash赛事都分为以下不同的阶段：
+
+![a53c548122a97e7adeec0c9778eab0a0.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoa53c548122a97e7adeec0c9778eab0a0.png)
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+## **准备**
+
+- 在此阶段，安奈不住的队员会催促每个**俱乐部队长**或**管理**为他们的俱乐部报名参加clash赛事。
+- ![8da3cc2c212828d9d464ac2025cc9163.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo8da3cc2c212828d9d464ac2025cc9163.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)**Tips**：请确保你的俱乐部已经准备好了。GL为防止白嫖，报名后新加入俱乐部的将不能参加这次clash。
+
+ 
+
+![6766868decbbe2a2cb9d1d6380f13c78.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo6766868decbbe2a2cb9d1d6380f13c78.png)![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+ 
+
+## **防守阶段**
+
+ 
+
+![32774e0e8f8bb765b3069544b607e392.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo32774e0e8f8bb765b3069544b607e392.png)
+
+在这一阶段，管理员将为俱乐部成员分配需要占据的己方城市街道以及使用的车辆，队员们要在这条街道上创造最佳用时记录，**以保护他们的街道**。
+
+**技巧**：为了建立良好的防御，检查分配给你的街道数量，检查你的车库，并使用俱乐部聊天和QQ群与你的队员协调并决定以下事项：
+
+- 由谁来守哪一条街道。
+- 考虑到每条街道的要求和积分值，您和您的俱乐部伙伴应该为每条街道分配哪种车型。
+- 请记住，您可以在街上进行练习赛以熟悉赛道。
+- **不要忘了时不时地点一下 "状态 "按钮来检查防守状态**。这个页面总结了你的俱乐部在防御阶段的表现状况。
+- 不要空着街道摆烂，这只会让你的对手在攻击阶段更加容易占领，俗称白给。
+
+**防守阶段主要玩法**
+
+![7c28bdd75a65dfa29e789d73f2f515d4.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo7c28bdd75a65dfa29e789d73f2f515d4.png)
+
+- **占领街道**
+  - 占领管理员分配给你的街道并保护它们，用你的好成绩让对手在进攻阶段难受（感到绝望最好）。
+  - 方法：进入这街道，点击占领按钮占领它。
+- **分配汽车**
+  - 为的每条街道指定一辆车以便使用它在这些街道上进行防御赛。
+- **进行防御比赛**
+  - 一旦你将汽车分配到一条街道上，你就可以在这条街道上进行防卫赛。
+- **在街上进行防御比赛会得到什么？**
+  - **街道基础积分**
+  - **街道额外积分**（如果有）
+    - 如果分配到某条街道的汽车符合该街道的加分要求，你也会通过进行防卫赛获得加分。
+- **您需要保护您的街道**：
+- 如果对手俱乐部的成员在攻击阶段进入你的街道，他/她将不得不在你的街道上比赛，如果他打破了你在防御阶段创造的最佳用时记录，就会占领这条街道。
+- **Tips**：您在街道上进行正式防御比赛的免费尝试次数是有限的，因此在您有信心进行正式防御比赛前，请使用练习比赛来熟悉赛道并练习。
+
+**额外内容**
+
+- **练习赛**可以帮助你适应街道的地图，或者在占领一条街道之前，测试你是否适合该地图。记住，你可以在你所在城市的所有街道上进行练习赛。
+- **改变指定的汽车**。如果你对你的选择不满意，跟队员商量能不能改用车，但请记住，如果你已经进行了防御赛，改用车后你的俱乐部将失去该街道的积分。所以别忘了用你指定的新车再进行一次防卫赛，以重新获得该街道的积分。
+- **让出一条街道**。如果你对已经占领的街道不满意，你可以和队员商量让出它。记住，如果你已经在这条街道上进行了防御赛，让出街道后你的俱乐部将失去该街道的积分。因此，不要忘记与你的俱乐部成员协调之后，让你的接盘侠在跑一次防卫赛，才能再次为你的俱乐部获得该街道的积分。
+
+ 
+
+ 
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+ 
+
+## **进攻阶段**
+
+![c4dcb7228699f3da77327ca5792cc38a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoc4dcb7228699f3da77327ca5792cc38a.png)
+
+在这个阶段，你的俱乐部必须攻击你的对手的城市一侧，并且，通过击败你的对手在其街道上创造的最佳用时记录来**占领尽可能多的街道**。
+
+**技巧**：
+
+- 为了占领对手的街道，你和你的俱乐部伙伴需要打破对手在他们自己的街道上的最佳用时记录。
+- 与防御阶段的情况不同，毕竟是去对手那里做客，你不能到处乱串，显得很不礼貌，因此你不能看中哪条街道就想直接去占领。
+- 你和你的俱乐部成员首先需要走大路选择一条**主街作为入口**，并沿着街区的路径，向街区的尽头移动。**主街道不能腾空**，一旦你选择了一条主街道，在进攻阶段结束前都由你负责，所以要仔细选择你的主街道。
+- **不要忘记通过点击状态按钮不时检查攻击状态。**
+- **你攻击阶段使用的汽车不能与你在防御阶段分配给街道的汽车相同，它已经焊死在你自己的街道上了。**
+
+**进攻阶段主要玩法**
+
+- **占领主要街道**
+  - 占用主要街道，并把它们作为一个起点。选择你想要的主要街道，只要它还没有被占领。
+- **进行攻击比赛**
+  - 一旦你进入对手的街道，你就可以进行一场攻击性的比赛。如果你打破了对手的最佳用时记录，你就会占领这条街道。
+- **占领对手街道会得到什么？**
+  - **街道基础积分**
+  - **街道的额外积分**（如果有）
+    - 如果你用来占领街道的车符合该街道的加分要求，你也会通过征服它获得加分。注意：这个功能将在即将到来的更新中提供。
+  - **奖励积分**：如果你或你的队友在第1次、第2次或第3次尝试中占领了对手的街道，该街道的基础分将被倍增。
+
+ 
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+ 
+
+## **评分系统**
+
+ -Clash中的得分取决于俱乐部成员以下的所作所为：
+
+- 他们的策略。（脑子）
+- 防御阶段，他们在己方城市的表现。（手子、库子）
+- 进攻阶段，他们在对手城市的表现。（手子、库子）
+
+**得分较高的俱乐部赢得Clash。**
+
+-Clash中获得积分的多种方式
+
+- 在防御阶段保卫街道。
+  - 街道的基础积分
+  - 街道的额外积分（如果有）
+- 汽车多样性水平。在防御阶段分配到街道上的汽车将被用来计算你的汽车多样性水平。根据你的俱乐部汽车多样性水平等级，你将在防御阶段结束时获得若干积分。
+- 在进攻阶段占领的敌人街道。
+  - 街道的基础积分
+  - 街道的额外积分（如果有）
+  - **奖励积分**：如果你或你的会友在第1次、第2次或第3次尝试中占领了对手的街道，该街道的基础分将被倍增。
+- **防守者的胜利：**如果攻击者试图占领一条街，但未能击败防守者的时间，防守者俱乐部将通过其防守者的每一次胜利获得一定数量的分数（只有每条街的3个第一个防守者胜利）。
+
+ 
+
+![af7b974d7b1e27f29e86ee8fa459311a.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaf7b974d7b1e27f29e86ee8fa459311a.png)
+
+ 
+
+## **奖励**
+
+![b9df5c30b50c7bd28bafe0b76d20ea63.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgob9df5c30b50c7bd28bafe0b76d20ea63.png)
+
+ 
+
+**Clash回合奖励（1周为1回合）**
+
+- Clash获胜俱乐部的奖励。
+- 失败俱乐部的安慰奖励。
+
+你的俱乐部每场Clash所能获得的奖励不仅仅取决于Clsah的输赢。在每个Clash赛季开始时，你的俱乐部将**根据你的俱乐部车库价值**被列入一个等级组别中。增加你的俱乐部车库价值，可以达到更高的等级，从而获得更好的奖励（无论输赢）。
+
+ 
+
+**Clash赛季奖励（8回合为1赛季）**
+ **Clash赛季由若干单独的Clash回合组成**
+ 您和您的队友将在每个Clash赛季结束时获得奖励。
+ 这些奖励基于排行榜：
+
+- 俱乐部在这个排行榜上的位置取决于他们在赛季结束时的Clash总点数。
+- 俱乐部在他们参加的赛季的不同Clash回合中获得clash点数。
+- 此排行榜考虑了所有车库价值等级的所有俱乐部。
+- 因此，所有俱乐部都在这个排行榜上竞争。
+
+ 
+
+**关于赛季结算**
+
+- 不同赛季的最终clash结算奖励不一样，有时候是**clash紫币**有时候是**图纸**
+- 档位细分一档前1，二档前2，三档前3，四档前4，五档前5%，六档前10%，七档前25%
+
+ 
+
+## **CLASH货币**
+
+ 
+
+**CLASH货币一共分为两种**
+
+- **黄币**可以通过氪金、结算获取
+  - ![4eeb3c7bd00965a28115f9bd7a82ad3e.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo4eeb3c7bd00965a28115f9bd7a82ad3e.png)
+- **紫币**只能通过结算获取
+  - ![1f72bc6e1975b0d8a0ad75eac0f13052.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgo1f72bc6e1975b0d8a0ad75eac0f13052.png)
+
+## **Tips：**
+
+- 结算获取分为**每周回合小结算**和**整个大赛季结算**
+- 氪金购买的**clash黄币只能购买图纸**，**紫币**可以**购买钥匙金卡**
+
+ 
+
+不断充值提升你的车库，击败你的对手，让你的俱乐部每个赛季都可以攀升到更高的等级，让你竞争游戏中一些最令人流口水的奖励！
+
+Clash是与您的俱乐部一起享受《狂野飙车 9：传奇》的理想模式，为共同的目标而战，并在此过程中充值购买抽包获得更好的车来使自己变强，赢得俱乐部成员的尊重！
+
+——翻译自[官方Clash赛事说明文档](https://asphalt9.info/the-clash-tutorial/)
+
+By：BigMonster
+
+ 
+
+ ![aa6d1690b24d321af558f5dc031895fe.png](https://raw.githubusercontent.com/wanghaozone/image/master/image/Picgoaa6d1690b24d321af558f5dc031895fe.png)
+
+***Galaxy俱乐部——******狂野飙车9 NS服 交流Q群***
